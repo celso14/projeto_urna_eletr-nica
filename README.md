@@ -1,6 +1,6 @@
 # projeto_urna_eletr-nica
 
-##Treinando Typescript fazendo um mini projeto de urna eletrônica 
+## Treinando Typescript fazendo um mini projeto de urna eletrônica 
 
 
 
